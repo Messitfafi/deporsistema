@@ -1,0 +1,85 @@
+.estilo_caja{
+	background: #878180;
+	width: 500px;
+	height: 750px;
+	box-shadow: 3px 3px 3px #000;
+	margin:30px;
+	padding: 30px;
+	border-radius: 3px;
+	border-left: 1px solid black;
+	border-top: 1px solid black;
+}
+
+.s{
+	color: red;
+	text-shadow: 1px 1px 1px #000;
+	font-family: Calibri;
+}
+
+.estilo_caja{
+	color: red;
+	text-shadow: 1px 1px 1px #000;
+	font-family: Harrington;
+	font-weight: bold;
+	font-size: 20px;
+	margin: 20px;
+}
+
+
+<br>
+<br>
+
+button#registrar {
+	width:100px;
+	height:30px;
+	border-radius:3px 3px 3px 3px;
+	border:none;
+	background:black;
+	color: #D5D8DC;
+	font-size:11pt;
+	font-weight:bold;
+	font-family:arial;
+	margin-left:4px;
+	cursor: pointer;
+}
+
+
+
+
+#limpiar{
+	width:110px;
+	height:30px;
+	border-radius:3px 3px 3px 3px;
+	border:none;
+	background:black;
+	color: white;
+	font-size:11pt;
+	font-weight:bold;
+	font-family:arial;
+	margin-left:15px;
+	cursor: pointer;
+}
+#limpiar:hover{
+background:white;
+color:black;
+border:black 3px solid;
+}
+
+#registrar{
+	width:110px;
+	height:30px;
+	border-radius:3px 3px 3px 3px;
+	border:none;
+	background:black;
+	color: white;
+	font-size:11pt;
+	font-weight:bold;
+	font-family:arial;
+	margin-left:4px;
+	cursor: pointer;
+}
+#registrar:hover{
+	background:white;
+	border:#0077FF 3px solid;
+	color:#0077FF;
+}
